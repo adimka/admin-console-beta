@@ -332,6 +332,7 @@
         <module>security</module>
         <module>federation</module>
         <module>ui</module>
+        <module>query</module>
         <module>app</module>
     </modules>
 </project>
